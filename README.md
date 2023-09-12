@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prudhvi
-- 👀 I’m a Full-Stack guy with working experience in Microsoft Tech-Stack ...
+- 👀 I’m a Full-Stack guy with working experience in Microsoft Tech-Stack and I have total of 5 years of experience in Microsoft.
 - 🌱 Currently a Master's student in University of North Carolina at Charlotte ...
 - 📫 Feel free to drop by via email (prudhvi.maale@gmail.com)
 
